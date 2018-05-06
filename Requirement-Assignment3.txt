@@ -1,0 +1,16 @@
+Following packages are requirements for the program
+
+
+pandas as pd
+numpy as np
+json
+matplotlib.pyplot as plt
+from time import gmtime, strftime
+from tabulate import tabulate
+from urllib.request import urlopen as uReq
+from bs4 import BeautifulSoup as soup
+from sklearn.linear_model import LinearRegression
+from sklearn import preprocessing ,cross_validation,svm
+from statsmodels.tsa.arima_model import ARIMA
+from statsmodels.tsa.stattools import acf, pacf
+from statsmodels.tsa.stattools import adfuller
