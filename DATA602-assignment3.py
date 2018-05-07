@@ -408,7 +408,7 @@ while not done:
     selected = input()
     if selected == "1":
         done = False
-        print("Welcome!Enter the equity you want to trade!")
+        print("Welcome!Enter the name of equity you want to trade!. for Ex: If you want to trade 'Bitcoin' : Enter - Bitcoin ")
         def submenu():
             print("       ")
             print("1.Bitcoin")
