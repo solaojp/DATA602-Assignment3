@@ -74,18 +74,23 @@ detail code for ARIMA model and How it works is explained in write up attached.
 
 
 
-Scope for improvement:
+## Scope for improvement:
 1) Prediction model svm can be used for better results.
 2) program works with flow of one equity at a time(one equity per trade) which can be expanded to more than one.
 3) Graphs and visuals can be made more clear and user friendly.
 4) Usage if UI interface and CSS Django frame work.
 
 
-What I learned in comparision with privious assignment:
+## What I learned in comparision with privious assignment:
 1) Working on functions
 2) Data scarpping with more precision.
 3) Loops and Data structure improvement.
 
 
-Docker :
+## How to run on docker:
 
+Pull docker image:
+docker pull jag1992/data602-assignment3:latest
+
+Run docker image:
+docker run -it jag1992/data602-assignment3
