@@ -33,7 +33,7 @@ Ripple
 Bitcoin cash
 Litecoin
            
-Type the name of equity you want to trade:
+Type the name of equity you want to trade: For Example:'Bitcoin'
 
 Program will ask for quantity:
 enter the amount you want to trade
